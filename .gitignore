@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Test / run artifacts
+server_test.log
+*.log
+
+# macOS
+.DS_Store
